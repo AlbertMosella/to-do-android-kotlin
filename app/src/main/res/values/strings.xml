@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToDoDemo</string>
+    <string name="greeting">Welcome, Albert</string>
+    <string name="categories">Categories:</string>
+    <string name="add_task">Add your task</string>
+    <string name="business">Business</string>
+    <string name="personal">Personal</string>
+    <string name="other">Other</string>
+
+</resources>
